@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir></rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>false</updateXml>
+    <warLocation>/home/griffin/桌面/123.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath></webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/weixinpub/target/classes</webClassPathEntry>
+        <webClassPathEntry>M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar</webClassPathEntry>
+        <webClassPathEntry>M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar</webClassPathEntry>
+        <webClassPathEntry>M2_REPO/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.jar</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>
